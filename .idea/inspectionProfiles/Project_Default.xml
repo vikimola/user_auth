@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="zoneinfo" />
+          <option value="mysite.polls.models.Question.DoesNotExist" />
+          <option value="mysite.polls.models.Question.objects" />
+          <option value="mysite2.polls.models.Owner.objects" />
+          <option value="mysite2.polls.models.Pet.objects" />
+          <option value="mysite.polls.models.Choice.DoesNotExist" />
+          <option value="tutorial04.polls.models.Category.objects" />
+          <option value="tutorial04.polls.models.Choice.objects" />
+          <option value="om_relation.cats.models.Cat.objects" />
+          <option value="om_relation.cats.models.Breed.objects" />
+          <option value="cats.models.Cat.objects" />
+          <option value="cats.models.Breed.objects" />
+          <option value="batch.models.Category.objects" />
+          <option value="batch.models.State.objects" />
+          <option value="batch.models.Region.objects" />
+          <option value="batch.models.Iso.objects" />
+          <option value="batch.models.Site.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
